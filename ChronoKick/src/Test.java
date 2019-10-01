@@ -1,3 +1,7 @@
+
 public class Test {
-    system.out.println("hello firen jlnbnjkbxvmore hello");
+    public static void main(String[] args) {
+        System.out.println("hello firen jlnbnjkbxvmore hello");
+
+    }
 }
